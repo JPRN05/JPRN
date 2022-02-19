@@ -1,5 +1,4 @@
 # JPRN 
-</style>
 <table class="tg">
 <thead>
   <tr>
