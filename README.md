@@ -77,4 +77,3 @@
   </tr>
 </tbody>
 </table>
-https://github.com/JPRN05/JPRN.git
